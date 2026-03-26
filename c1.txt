@@ -1,1 +1,5 @@
+<<<<< HEAD
 af
+=======
+modified c1
+>>>>>>> first

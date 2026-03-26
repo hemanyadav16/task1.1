@@ -1,1 +1,5 @@
+<< HEAD
 xdf
+=======
+modified c2
+>>>>>>> first
